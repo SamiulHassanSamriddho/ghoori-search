@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<script type='text/javascript'>
+  window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.charset='utf-8';c.src='https://web-sdk.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', 'f29c06a4ca99649502dcc3dd3ecbe5e0fc6c0d47', { region: 'eu' });
+</script>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#009578">
+    <title>Ghoori Search</title>
+    <link href="https://betaghoorisearch.neocities.org/jquery.flex-images.css" rel="stylesheet" type="text/css">
+    <link href="https://betaghoorisearch.neocities.org/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="https://betaghoorisearch.neocities.org/style.css" rel="stylesheet" type="text/css">
+    <link href="https://betaghoorisearch.neocities.org/autofill.css" rel="stylesheet" type="text/css">
+    <link rel="manifest" href="https://betaghoorisearch.neocities.org//static/manifest.json">
+    <link rel="apple-touch-icon" href="https://rb.gy/z2yfjl">
+</head>
+<body class="background" style="background-image: url('https://mobileghoorisearch.neocities.org/image/sadinotar51.jpg');">
+    <script src="autotopbar.js"></script>
+    <div id="header" class="header header-home header-home-focus">
+        <div class="header-content">
+            <div class="header-col header-col-logo"><a href="/"><div class="logo-small"><img src="https://rb.gy/z2yfjl"></div></a></div>
+            <div class="header-col header-col-content">
+                <div class="page-menu header-menu">
+                    <a class="home-search-menu home-search-menu-active" href="https://mobileghoorisearch.neocities.org/">Search</a>
+                    <a class="home-search-menu " href="http://ghoorisearchengine.chatango.com/">Support Forum</a>
+                </div>
+            </div>
+        </div>
+    </div>    
+    <div id="content" class="content content-home content-home-focus">
+        <div class="home-center">
+            <div class="home-logo">
+            <div class="logo-large">
+           </div>
+            </div>
+            <div class="search-content">
+                <div class="search-container">
+                    <form action="https://ghoorisearch.neocities.org/result.html" id="Relevance">
+                        <input type="text" name="q" class="search-input" placeholder="Search Somethng" autocomplete="on" id="transcript" required>
+                        <div class="suggestion-continer shadow" id="matchedList"></div>
+                        <a id="button" onclick="startDictation()" title="Voice Search" class="mic-button"></a>
+                        <button id="search-button" class="search-button"></button>
+                        <div class="search-list" style="display: none;">
+                            <div class="search-list-container" id="search-results"></div>
+                        </div>
+                    </form>
+                </div>
+            </div>  
+            <div class="home-description">Explore Super Results.</div>
+            </div>
+    </div>    
+    <footer id="footer" class="footer footer-home">
+    <div class="footer-content">
+        <div class="footer-menu">
+             <div class="footer-element"><a href="http://ghoorisearchengine.chatango.com/">Contact</a></div>
+            <div class="footer-element"><a href="/about.html">About</a></div>
+        </div>
+        
+        <div class="footer-info">
+            <div class="footer-element desktop-only">Powered by <a href="https://ghoorisearch.neocities.org/" data-nd="">Ghoori Search</a></div>
+            <div class="footer-element">© 2022 Ghoori Search</div>
+        </div>
+    </div>
+</footer>
+    <script src="https://betaghoorisearch.neocities.org/bootstrap.min.js"></script>
+    <script src="https://betaghoorisearch.neocities.org/jquery-3.6.0.min.js"></script>
+
+      <script type='text/javascript' src='//nutritionshooterinstructor.com/35/4c/56/354c568cb4c3d076ce520fe4ce3bba5b.js'></script>  
+
+
+<script>
+(function(ovryaao){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = ovryaao || {};
+s.src = "\/\/keen-slip.com\/aIWK5.wLY\/WUdpl\/Q\/2\/9skxZDTj9d6eby2\/5hloSrWSQd9CNiDsUE0\/MqTTky2oN\/ir0i0\/NVTnQexRO-TtYu3w";
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
+
+
+</script>
+</body>
+</html>
